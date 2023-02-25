@@ -1,0 +1,26 @@
+html,
+html {
+  scroll-behavior: smooth !important;
+}
+
+.main {
+  width: 90%;
+}
+
+.messageSendButton {
+  text-align: center;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  cursor: pointer;
+  color: rgb(57, 192, 237);
+}
+
+.messageSentInputBg {
+  padding-top: 1.7rem;
+  background: #e9e5e53e;
+}
+
+.customBg {
+  background: rgba(57, 192, 237, 0.411);
+}
