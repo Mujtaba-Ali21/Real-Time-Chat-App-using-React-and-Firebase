@@ -19,7 +19,7 @@ const Signin = () => {
     if (user != null) {
       navigate('/channel');
     }
-  }, [user]);
+  }, [user, navigate]);
 
   return (
     <>
